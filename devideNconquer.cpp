@@ -33,7 +33,7 @@ ll DFS(ll a, ll b, ll c)
 
 int main()
 {
-
+    // to disable synchronization between C and C++ standard streams
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
